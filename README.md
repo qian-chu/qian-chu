@@ -2,9 +2,11 @@
 
 **Email:** qian.chu[at]nyu.edu
 
-[Google Scholar](https://github.com/qian-chu) | [ORCID](https://orcid.org/0000-0003-2308-6102)
+<a href="https://github.com/qian-chu" target="_blank">Google Scholar</a> | 
+<a href="https://orcid.org/0000-0003-2308-6102" target="_blank">ORCID</a>
 
-[Github](https://github.com/qian-chu) | [OSF](osf.io/kxda9)
+<a href="https://github.com/qian-chu" target="_blank">Github</a> | 
+<a href="https://osf.io/kxda9" target="_blank">ORCID</a>
 
 ## My Name
 
