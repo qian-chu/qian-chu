@@ -6,7 +6,7 @@
  <a href="https://orcid.org/0000-0003-2308-6102" target="_blank">ORCID</a>
 
 <a href="https://github.com/qian-chu" target="_blank">Github</a> |
- <a href="https://osf.io/kxda9" target="_blank">ORCID</a>
+ <a href="https://osf.io/kxda9" target="_blank">OSF</a>
 
 ## My Name
 
