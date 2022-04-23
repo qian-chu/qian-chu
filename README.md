@@ -2,7 +2,7 @@
 
 **Email:** qian.chu[at]nyu.edu
 
-### My name
+## My name
 
 My name is 褚乾 Chǔ Qían (Chǔ being the family name) and I usually go by Qían, which is the [first hexagram in I Ching](https://en.wikipedia.org/wiki/I_Ching#Hexagrams) and means "sky".
 
