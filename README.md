@@ -2,7 +2,7 @@
 
 **Email:** qian.chu[at]nyu.edu
 
-<a href="https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html" target="_blank">Neural Circuits, Consciousness, and Cognition Research Group</a> | <a href="http://www.neurontobrainlaboratory.ca/" target="_blank">Neuron to Brain Lab</a>
+<a href="https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html" target="_blank">Neural Circuits, Consciousness, and Cognition Group @ MPIEA</a> | <a href="http://www.neurontobrainlaboratory.ca/" target="_blank">Neuron to Brain Lab @ UHN Krembil</a>
 
 <a href="https://github.com/qian-chu" target="_blank">Google Scholar</a> | <a href="https://orcid.org/0000-0003-2308-6102" target="_blank">ORCID</a> | <a href="https://github.com/qian-chu" target="_blank">Github</a> | <a href="https://osf.io/kxda9" target="_blank">OSF</a>
 
