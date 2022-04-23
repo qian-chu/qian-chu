@@ -13,7 +13,7 @@
      width="50" height="50"
      style="float: left; margin-right: 10px;" />
 
-My name is 褚乾 Chǔ Qían (Chǔ being the family name) and I usually go by Qían, which is the <a href="https://en.wikipedia.org/wiki/I_Ching#Hexagrams" target="_blank">first hexagram in I Ching</a> and means "sky".
+My name is 褚乾 Chǔ Qían (Chǔ being the family name) and I usually go by Qían (approx. pronounced "chain"), which is the <a href="https://en.wikipedia.org/wiki/I_Ching#Hexagrams" target="_blank">first hexagram in I Ching</a> and means "sky".
 
 ## Academic Bio
 
