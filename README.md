@@ -17,7 +17,7 @@
        alt="GitHub logo" 
      width="30" height="30"/>
 </a> <a href="https://osf.io/kxda9" target="_blank">
-<img src="figures/png-transparent-charlottesville-center-for-open-science-research-preprint-framework-blue-symmetry-computer-wallpaper.png"
+<img src="figures/OSF.png"
        alt="OSF logo"
      width="30" height="30"/>
 </a>
