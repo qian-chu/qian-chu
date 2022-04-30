@@ -6,12 +6,14 @@
 
 <a href="https://github.com/qian-chu" target="_blank">
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"
-       alt="Google Scholar logo" />
+       alt="Google Scholar logo" 
+     width="50" height="50"/>
 </a>
 
 <a href="https://orcid.org/0000-0003-2308-6102" target="_blank">
 <img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"
-       alt="ORCID logo" />
+       alt="ORCID logo"
+     width="50" height="50"/>
 </a>
 
 
