@@ -1,8 +1,8 @@
+<a href="https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html" target="_blank">Neural Circuits, Consciousness, and Cognition Group @ MPIEA</a> | <a href="http://www.neurontobrainlaboratory.ca/" target="_blank">Neuron to Brain Lab @ UHN Krembil</a>
+
 **Pronouns:** he/him/his
 
 **Email:** qian.chu[at]nyu.edu
-
-<a href="https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html" target="_blank">Neural Circuits, Consciousness, and Cognition Group @ MPIEA</a> | <a href="http://www.neurontobrainlaboratory.ca/" target="_blank">Neuron to Brain Lab @ UHN Krembil</a>
 
 <a href="https://github.com/qian-chu" target="_blank">
 <img src="figures/512px-Google_Scholar_logo.svg.png"
@@ -22,6 +22,9 @@
      width="30" height="30"/>
 </a>
 
+<a class="twitter-timeline" width="200" height="200" href="https://twitter.com/QianNeuro?ref_src=twsrc%5Etfw">Tweets by QianNeuro</a>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ## Name
 
 <img src="figures/qian.jpg"
@@ -39,4 +42,4 @@ I'm broadly interested in how biological and artificial forms of intelligence co
 
 ## News
 
-<a class="twitter-timeline" href="https://twitter.com/QianNeuro?ref_src=twsrc%5Etfw">Tweets by QianNeuro</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
