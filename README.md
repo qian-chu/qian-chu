@@ -5,18 +5,22 @@
 <a href="https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html" target="_blank">Neural Circuits, Consciousness, and Cognition Group @ MPIEA</a> | <a href="http://www.neurontobrainlaboratory.ca/" target="_blank">Neuron to Brain Lab @ UHN Krembil</a>
 
 <a href="https://github.com/qian-chu" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"
+<img src="figures/512px-Google_Scholar_logo.svg.png"
        alt="Google Scholar logo" 
      width="30" height="30"/>
 </a> <a href="https://orcid.org/0000-0003-2308-6102" target="_blank">
-<img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg"
+<img src="figures/768px-ORCID_iD.svg.png"
        alt="ORCID logo"
      width="30" height="30"/>
 </a> <a href="https://github.com/qian-chu" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/2048px-Google_Scholar_logo.svg.png"
+<img src="figures/GitHub-Mark-120px-plus.png"
        alt="GitHub logo" 
      width="30" height="30"/>
-</a> <a href="https://github.com/qian-chu" target="_blank">Github</a> | <a href="https://osf.io/kxda9" target="_blank">OSF</a>
+</a> <a href="https://osf.io/kxda9" target="_blank">
+<img src="figures/png-transparent-charlottesville-center-for-open-science-research-preprint-framework-blue-symmetry-computer-wallpaper.png"
+       alt="OSF logo"
+     width="30" height="30"/>
+</a>
 
 ## Name
 
