@@ -1,30 +1,34 @@
-|<a href="https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html" target="_blank">Neural Circuits, Consciousness, and Cognition Group @ MPIEA</a>|
-|<a href="http://www.neurontobrainlaboratory.ca/" target="_blank">Neuron to Brain Lab @ UHN Krembil</a>|
-
-**Pronouns:** he/him/his
-
-**Email:** qian.chu[at]nyu.edu
-
+<a href="https://twitter.com/QianNeuro" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png"
+       alt="Google Scholar logo" 
+     width="30" height="30"/>
+</a>
 <a href="https://github.com/qian-chu" target="_blank">
 <img src="figures/512px-Google_Scholar_logo.svg.png"
        alt="Google Scholar logo" 
      width="30" height="30"/>
-</a> <a href="https://orcid.org/0000-0003-2308-6102" target="_blank">
+</a>
+<a href="https://orcid.org/0000-0003-2308-6102" target="_blank">
 <img src="figures/768px-ORCID_iD.svg.png"
        alt="ORCID logo"
      width="30" height="30"/>
-</a> <a href="https://github.com/qian-chu" target="_blank">
+</a>
+<a href="https://github.com/qian-chu" target="_blank">
 <img src="figures/GitHub-Mark-120px-plus.png"
        alt="GitHub logo" 
      width="30" height="30"/>
-</a> <a href="https://osf.io/kxda9" target="_blank">
+</a>
+<a href="https://osf.io/kxda9" target="_blank">
 <img src="figures/OSF.png"
        alt="OSF logo"
      width="30" height="30"/>
 </a>
 
-<a class="twitter-timeline" width="200" height="200" href="https://twitter.com/QianNeuro?ref_src=twsrc%5Etfw">Tweets by QianNeuro</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+|<a href="https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html" target="_blank">Neural Circuits, Consciousness, and Cognition Group @ MPIEA</a>|<a href="http://www.neurontobrainlaboratory.ca/" target="_blank">Neuron to Brain Lab @ UHN Krembil</a>|
+
+**Pronouns:** he/him/his
+
+**Email:** qian.chu[at]nyu.edu
 
 ## Name
 
