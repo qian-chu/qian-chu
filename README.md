@@ -1,4 +1,4 @@
-<a href="https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html" target="_blank">Neural Circuits, Consciousness, and Cognition Group @ MPIEA</a> |
+|<a href="https://www.aesthetics.mpg.de/en/research/research-group-neural-circuits-consciousness-and-cognition.html" target="_blank">Neural Circuits, Consciousness, and Cognition Group @ MPIEA</a>|
 |<a href="http://www.neurontobrainlaboratory.ca/" target="_blank">Neuron to Brain Lab @ UHN Krembil</a>|
 
 **Pronouns:** he/him/his
