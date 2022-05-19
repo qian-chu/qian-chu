@@ -28,7 +28,7 @@
 
 **Pronouns:** he/him/his
 
-**Email:** qian.chu[at]nyu.edu
+**Email:** qian.chu[at]mail.utoronto.ca
 
 ## Name
 
