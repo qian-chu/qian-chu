@@ -41,10 +41,6 @@ My name is 褚乾 Chǔ Qían (Chǔ being the family name). My given name Qían (
 
 ## Academic Bio
 
-I'm a first-year PhD student at the <a href="https://mpc.utoronto.ca/" target="_blank">Max Planck - University of Toronto Centre (MPUTC) for Neural Science and Technology</a>, advised by <a href="https://www.aesthetics.mpg.de/en/the-institute/people/lucia-melloni-en.html" target="_blank">Lucia Melloni</a> and <a href="https://surgery.utoronto.ca/faculty/taufik-valiante" target="_blank">Taufik Valiante</a> of the Max Planck Society and University of Toronto respectively. I received my BS in Neural Science (with minors in Mathematics and Philosophy) from NYU Shanghai, where I worked with <a href="https://bcs.shanghai.nyu.edu/en/peoples/faculty-affiliates/xing-tian" target="_blank">Xing Tian</a> on auditory imagery and prediction as well as a causal inference account of agency.
+I'm a PhD student at the <a href="https://mpc.utoronto.ca/" target="_blank">Max Planck - University of Toronto Centre (MPUTC) for Neural Science and Technology</a>, advised by <a href="https://www.aesthetics.mpg.de/en/the-institute/people/lucia-melloni-en.html" target="_blank">Lucia Melloni</a> and <a href="https://surgery.utoronto.ca/faculty/taufik-valiante" target="_blank">Taufik Valiante</a> of the Max Planck Society and University of Toronto respectively. I received my BS in Neural Science (cum laude, with minors in Mathematics and Philosophy) from NYU Shanghai, where I worked with <a href="https://bcs.shanghai.nyu.edu/en/peoples/faculty-affiliates/xing-tian" target="_blank">Xing Tian</a> on auditory imagery and prediction as well as a causal inference account of agency.
 
-I'm broadly interested in how biological and artificial forms of intelligence construct internal models of the external world and put them into critical use. I'm especially curious about neural computations associated with predictive signals (e.g., predictive coding, Bayesian estimation, phase resetting) and their laminar organization. I currently investigate visuomotor prediction in saccades and the role of the medial temporal lobe in the process.
-
-## News
-
-
+I'm broadly interested in how biological and artificial forms of intelligence construct internal models of the external world and put them into critical use. I'm especially curious about neural computations associated with predictive signals (e.g., predictive coding, Bayesian estimation, phase resetting) and their laminar organization. I currently investigate the role of the medial temporal lobe in saccadic predictions.
